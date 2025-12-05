@@ -4,19 +4,23 @@
 <table>
 <tr>
 <td width="230" align="center" valign="middle">
-<img src="https://static.macupdate.com/products/25783/m/batchoutput-doc-logo.png?v=1669295446" width="200"><br>
-<a href="https://mac-share-apps.github.io/.github/batchoutput-doc">
-<img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
-</a><br><br>
-<div align="center">
-<img src="https://img.shields.io/badge/downloads-1.1k-brightgreen?style=flat-square"><br>
-<img src="https://img.shields.io/badge/version-1.0-blue?style=flat-square"><br>
-<img src="https://img.shields.io/badge/license-Commercial-lightgrey?style=flat-square"><br>
-<img src="https://img.shields.io/badge/platform-macOS-blue?style=flat-square"><br>
-</div>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/2d/58/e82d5823-cb1e-6a79-6cca-82144761c048/AppIcon-85-220-2x.png/1200x630bb.png" width="200" /><br/>
+
+  <a href="https://mac-share-apps.github.io/.github/batchoutput-doc">
+    <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Download for macOS" />
+  </a>
+  <br/><br/>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/downloads-1.1k-brightgreen?style=flat-square" /><br/>
+    <img src="https://img.shields.io/badge/version-1.0-blue?style=flat-square" /><br/>
+    <img src="https://img.shields.io/badge/license-Commercial-lightgrey?style=flat-square" /><br/>
+    <img src="https://img.shields.io/badge/platform-macOS-blue?style=flat-square" /><br/>
+  </div>
 </td>
+
 <td align="center" valign="middle">
-<img src="https://zevrix.com/wp-content/uploads/2020/08/boo-security-876-tr.png" width="500">
+  <img src="https://zevrix.com/wp-content/uploads/2020/08/boo-security-876-tr.png" width="500" />
 </td>
 </tr>
 </table>
